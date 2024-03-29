@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @import url("reset.css");
-/* @import url("common.scss"); */
 @import url("common.css");
+@import url("common.scss");
 @font-face {
   font-family: "Stint Ultra Expanded";
   src: url("font/StintUltraExpanded-Regular.eot");
@@ -145,19 +145,17 @@ body.on::before {
   display: none;
 }
 .modal.on {
-  max-width: 350px;
-  width: calc(100% - 40px);
   display: block;
   position: fixed;
   top: -50%;
   left: 50%;
   z-index: 55555;
-  padding: 20% 0;
+  padding: 10rem;
   text-align: center;
   transform: translate(-50%, -50%);
   font-family: var(--font-kr);
   background-color: #3e59b0;
-  border-radius: 100px;
+  border-radius: 10rem;
 }
 .modal.on .cancel--icon {
   position: fixed;
@@ -1120,4 +1118,4 @@ body.on::before {
   h2 {
     font-size: 3rem;
   }
-} 
+}/*# sourceMappingURL=style.css.map */

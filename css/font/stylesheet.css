@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Stint Ultra Expanded';
+    src: url('StintUltraExpanded-Regular.eot');
+    src: url('StintUltraExpanded-Regular.eot?#iefix') format('embedded-opentype'),
+        url('StintUltraExpanded-Regular.woff2') format('woff2'),
+        url('StintUltraExpanded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: url('SourceSans3-Bold.eot');
+    src: url('SourceSans3-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SourceSans3-Bold.woff2') format('woff2'),
+        url('SourceSans3-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: url('SourceSans3-Regular.eot');
+    src: url('SourceSans3-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SourceSans3-Regular.woff2') format('woff2'),
+        url('SourceSans3-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: url('SourceSans3-Black.eot');
+    src: url('SourceSans3-Black.eot?#iefix') format('embedded-opentype'),
+        url('SourceSans3-Black.woff2') format('woff2'),
+        url('SourceSans3-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: url('SourceSans3-Medium.eot');
+    src: url('SourceSans3-Medium.eot?#iefix') format('embedded-opentype'),
+        url('SourceSans3-Medium.woff2') format('woff2'),
+        url('SourceSans3-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: '';
+    src: url('Pretendard-Black.eot');
+    src: url('Pretendard-Black.eot?#iefix') format('embedded-opentype'),
+        url('Pretendard-Black.woff2') format('woff2'),
+        url('Pretendard-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Pretendard-Bold.eot');
+    src: url('Pretendard-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Pretendard-Bold.woff2') format('woff2'),
+        url('Pretendard-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Pretendard-Light.eot');
+    src: url('Pretendard-Light.eot?#iefix') format('embedded-opentype'),
+        url('Pretendard-Light.woff2') format('woff2'),
+        url('Pretendard-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('Pretendard-Regular.eot');
+    src: url('Pretendard-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Pretendard-Regular.woff2') format('woff2'),
+        url('Pretendard-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Avenir Roman';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Roman'), url('avenir_roman_12.woff') format('woff');
+    }
+
+
+
