@@ -145,6 +145,7 @@ body.on::before {
   display: none;
 }
 .modal.on {
+  width: calc(100% - 40px);
   display: block;
   position: fixed;
   top: -50%;
