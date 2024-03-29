@@ -150,12 +150,12 @@ body.on::before {
   top: -50%;
   left: 50%;
   z-index: 55555;
-  padding: 20px;
+  padding: 20%;
   text-align: center;
   transform: translate(-50%, -50%);
   font-family: var(--font-kr);
   background-color: #3e59b0;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 .modal.on .cancel--icon {
   position: fixed;
